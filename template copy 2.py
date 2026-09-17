@@ -1,6 +1,6 @@
 """
 Describe your program.
-First Last - Month Year
+Yoav Bierkatz - September 2026
 """
 
 def main() -> None:
