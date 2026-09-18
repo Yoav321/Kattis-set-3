@@ -1,11 +1,13 @@
 """
-Describe your program.
+Adds 2 number together
 Yoav Bierkatz - September 2026
 """
 
 def main() -> None:
-  pass # remove me
-
+  n,m = input().split(" ")
+  n = int(n)
+  m = int(m)
+  print(n+m)
   # input
 
 
